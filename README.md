@@ -21,12 +21,13 @@ My true passion lies in securing digital landscapes and helping organizations pr
 
 🤝 Let's Connect!
 I'm always open to collaboration and discussions in the cybersecurity space!
-Feel free to reach out to me on [LinkedIn] (https://www.linkedin.com/in/shankar-r-cyber-security/) — let’s work together to make a positive impact in the world of cybersecurity! 🚀
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shankar-r-cyber-security/) — let’s work together to make a positive impact in the world of cybersecurity! 🚀
 
 ---
 
-**✔️ Certifications**
+**Certifications**
 Certified Ethical Hacker (CEH) Master ✅
+
 Lead Auditor - Information Security Certification (ISO 27001)✅
 
 
