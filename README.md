@@ -2,22 +2,33 @@
 
 ---
 
-🌟 **About Me**
+🌟 About Me
+I'm a Cybersecurity Specialist with expertise across Application Security, Healthcare, Industrial Automation, and Finance industries.
+I’m deeply passionate about securing applications and helping organizations strengthen their defenses against evolving cyber threats.
 
-- 🔭 Currently diving into exciting projects in **[your domain/field, e.g., Web Development | Machine Learning]**.
-- 🌱 Lifelong learner, always exploring new technologies and tools.
-- 💬 Feel free to ask me about **[specific skills or topics, e.g., JavaScript | Python | AI]**.
-- 📫 Reach me at: **[your email or LinkedIn link]**
-- ⚡ Fun fact: **[Add something unique or interesting about yourself here!]**
+🔒 Professional Experience
+I am an enthusiastic cybersecurity professional with 5 years of hands-on experience in:
+
+VAPT | Mobile Applications | Web Applications | APIs | Thick Clients | Network | Cloud
+
+Additionally, I have:
+
+Served as a technical resource for my team by delivering training sessions, mentoring, and hosting webinars on cybersecurity assessments.
+
+A strong interest in exploring new attack surfaces and continuously staying updated with the latest security trends, exploits, and technologies.
+
+My true passion lies in securing digital landscapes and helping organizations protect their assets from modern cyber threats. 😊
+
+🤝 Let's Connect!
+I'm always open to collaboration and discussions in the cybersecurity space!
+Feel free to reach out to me on [LinkedIn] (https://www.linkedin.com/in/shankar-r-cyber-security/) — let’s work together to make a positive impact in the world of cybersecurity! 🚀
 
 ---
 
-🛠️ **Tech Stack**
+**✔️ Certifications**
+Certified Ethical Hacker (CEH) Master ✅
+Lead Auditor - Information Security Certification (ISO 27001)✅
 
-- **Languages**: *[e.g., JavaScript | Python | Java]*
-- **Frameworks**: *[e.g., React | Django | Node.js]*
-- **Tools & Platforms**: *[e.g., Git | Docker | VS Code | AWS]*
-- **Databases**: *[e.g., MySQL | MongoDB | PostgreSQL]*
 
 ---
 
