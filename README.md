@@ -3,13 +3,13 @@
 ---
 
 🌟 About Me
-I'm a Cybersecurity Specialist with expertise across Application Security, Healthcare, Industrial Automation, and Finance industries.
+I'm a Cybersecurity Specialist with expertise in Application Security across  Healthcare, Industrial Automation, and Finance industries.
 I’m deeply passionate about securing applications and helping organizations strengthen their defenses against evolving cyber threats.
 
 🔒 Professional Experience
 I am an enthusiastic cybersecurity professional with 5 years of hands-on experience in:
 
-VAPT | Mobile Applications | Web Applications | APIs | Thick Clients | Network | Cloud
+VAPT | Mobile Applications | Web Applications | APIs | Thick Clients | Network | Cloud | SBOMB | Threat modeling
 
 Additionally, I have:
 
