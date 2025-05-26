@@ -43,7 +43,7 @@ Lead Auditor - Information Security Certification (ISO 27001)✅
 https://www.linkedin.com/in/shankar-r-cyber-security/
 
 **Watch**
-[https://www.youtube.com/@Secure-360](https://www.youtube.com/@Shankar-cyber-security)
+https://www.youtube.com/@Shankar-cyber-security
 
 [
 ](https://img.shields.io/badge/Portfolio-Visit-important)
