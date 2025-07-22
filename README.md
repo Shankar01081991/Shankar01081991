@@ -25,13 +25,13 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shankar-r
 
 ---
 
-**Certifications**
+**Certifications :**
 
 OffSec Certified Professional+ (OSCP+)
 
-Certified Ethical Hacker (CEH) Master ✅
+Certified Ethical Hacker (CEH) Master 
 
-Lead Auditor - Information Security Certification (ISO 27001)✅
+Lead Auditor - Information Security Certification (ISO 27001)
 
 
 ---
