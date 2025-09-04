@@ -3,10 +3,12 @@
 ---
 
 🌟 About Me
+
 I'm a Cybersecurity Specialist with expertise in Application Security across  Healthcare, Industrial Automation, and Finance industries.
 I’m deeply passionate about securing applications and helping organizations strengthen their defenses against evolving cyber threats.
 
 🔒 Professional Experience
+
 I am an enthusiastic cybersecurity professional with 5 years of hands-on experience in:
 
 VAPT | Mobile Applications | Web Applications | APIs | Thick Clients | Network | Cloud | SBOMB | Threat modeling
@@ -20,6 +22,7 @@ A strong interest in exploring new attack surfaces and continuously staying upda
 My true passion lies in securing digital landscapes and helping organizations protect their assets from modern cyber threats. 😊
 
 🤝 Let's Connect!
+
 I'm always open to collaboration and discussions in the cybersecurity space!
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shankar-r-cyber-security/) — let’s work together to make a positive impact in the world of cybersecurity! 🚀
 
