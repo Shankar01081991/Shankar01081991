@@ -21,7 +21,7 @@ I'm a Cybersecurity Specialist with expertise in Application Security across Hea
 🔒 **Professional Experience**
 
 <div align="justify">
-I am an enthusiastic cybersecurity professional with 6 years of hands-on experience in:
+I am an enthusiastic cybersecurity professional with 8 years of hands-on experience in:
 
 VAPT | Mobile Applications | Web Applications | APIs | Thick Clients | Network | Cloud | SBOMB | Threat modeling
 
