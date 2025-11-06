@@ -38,7 +38,7 @@ Additionally, I have:
 
 - 🛡️ Led a successful VAPT initiative for a Fortune 500 healthcare client, uncovering critical vulnerabilities.
 - 📊 Automated payload benchmarking workflows, reducing manual effort by 60%.
-- 🎓 Mentored 20+ junior analysts in secure coding and threat modeling.
+- 🎓 Mentored junior analysts in Networ PT and Fuzzing.
 
 ---
 
