@@ -44,10 +44,19 @@ Additionally, I have:
 
 🧰 **Tech Stack**
 
+🧰 **Tech Stack**
+
 ![PowerShell](https://img.shields.io/badge/PowerShell-0078D7?style=for-the-badge&logo=powershell&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Defensics](https://img.shields.io/badge/Defensics%20Fuzzing-004880?style=for-the-badge&logo=protocols&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-990000?style=for-the-badge&logo=graphviz&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B2A9?style=for-the-badge&logo=tenable&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-252525?style=for-the-badge&logo=sqlite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit%20Framework-3B9C9C?style=for-the-badge&logo=metasploit&logoColor=white)
+![MobSF](https://img.shields.io/badge/MobSF-2E3A59?style=for-the-badge&logo=android&logoColor=white)
+
 
 ---
 
