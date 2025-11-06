@@ -44,8 +44,6 @@ Additionally, I have:
 
 🧰 **Tech Stack**
 
-🧰 **Tech Stack**
-
 ![PowerShell](https://img.shields.io/badge/PowerShell-0078D7?style=for-the-badge&logo=powershell&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
