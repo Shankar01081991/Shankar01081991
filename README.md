@@ -9,7 +9,7 @@ I’m deeply passionate about securing applications and helping organizations st
 
 🔒 Professional Experience
 
-I am an enthusiastic cybersecurity professional with 5 years of hands-on experience in:
+I am an enthusiastic cybersecurity professional with 6 years of hands-on experience in:
 
 VAPT | Mobile Applications | Web Applications | APIs | Thick Clients | Network | Cloud | SBOMB | Threat modeling
 
